@@ -1,0 +1,36 @@
+C:\Users\tekeş\Desktop\haftasonu odev\desımale cevırme\desımale cevırme\bin\Debug\desımale cevırme.exe.config
+C:\Users\tekeş\Desktop\haftasonu odev\desımale cevırme\desımale cevırme\bin\Debug\desımale cevırme.exe
+C:\Users\tekeş\Desktop\haftasonu odev\desımale cevırme\desımale cevırme\bin\Debug\desımale cevırme.pdb
+C:\Users\tekeş\Desktop\haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale cevırme.csprojResolveAssemblyReference.cache
+C:\Users\tekeş\Desktop\haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale_cevırme.Form1.resources
+C:\Users\tekeş\Desktop\haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale_cevırme.Properties.Resources.resources
+C:\Users\tekeş\Desktop\haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale cevırme.csproj.GenerateResource.Cache
+C:\Users\tekeş\Desktop\haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale cevırme.exe
+C:\Users\tekeş\Desktop\haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale cevırme.pdb
+C:\Users\tekeş\Desktop\ders notlarıı\haftasonu odev\desımale cevırme\desımale cevırme\bin\Debug\desımale cevırme.exe.config
+C:\Users\tekeş\Desktop\ders notlarıı\haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale cevırme.exe
+C:\Users\tekeş\Desktop\ders notlarıı\haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale cevırme.pdb
+C:\Users\tekeş\Desktop\ders notlarıı\haftasonu odev\desımale cevırme\desımale cevırme\bin\Debug\desımale cevırme.exe
+C:\Users\tekeş\Desktop\ders notlarıı\haftasonu odev\desımale cevırme\desımale cevırme\bin\Debug\desımale cevırme.pdb
+C:\Users\tekeş\Desktop\ders notlarıı\haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale cevırme.csprojResolveAssemblyReference.cache
+C:\Users\tekeş\Desktop\ders notlarıı\haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale_cevırme.Form1.resources
+C:\Users\tekeş\Desktop\ders notlarıı\haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale_cevırme.Properties.Resources.resources
+C:\Users\tekeş\Desktop\ders notlarıı\haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale cevırme.csproj.GenerateResource.Cache
+C:\Users\LAB4-PC1\Desktop\haftasonu odev\desımale cevırme\desımale cevırme\bin\Debug\desımale cevırme.exe.config
+C:\Users\LAB4-PC1\Desktop\haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale cevırme.exe
+C:\Users\LAB4-PC1\Desktop\haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale cevırme.pdb
+C:\Users\LAB4-PC1\Desktop\haftasonu odev\desımale cevırme\desımale cevırme\bin\Debug\desımale cevırme.exe
+C:\Users\LAB4-PC1\Desktop\haftasonu odev\desımale cevırme\desımale cevırme\bin\Debug\desımale cevırme.pdb
+C:\Users\LAB4-PC1\Desktop\haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale cevırme.csprojResolveAssemblyReference.cache
+C:\Users\LAB4-PC1\Desktop\haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale_cevırme.Form1.resources
+C:\Users\LAB4-PC1\Desktop\haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale_cevırme.Properties.Resources.resources
+C:\Users\LAB4-PC1\Desktop\haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale cevırme.csproj.GenerateResource.Cache
+F:\ \haftasonu odev\desımale cevırme\desımale cevırme\bin\Debug\desımale cevırme.exe.config
+F:\ \haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale cevırme.exe
+F:\ \haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale cevırme.pdb
+F:\ \haftasonu odev\desımale cevırme\desımale cevırme\bin\Debug\desımale cevırme.exe
+F:\ \haftasonu odev\desımale cevırme\desımale cevırme\bin\Debug\desımale cevırme.pdb
+F:\ \haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale cevırme.csprojResolveAssemblyReference.cache
+F:\ \haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale_cevırme.Form1.resources
+F:\ \haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale_cevırme.Properties.Resources.resources
+F:\ \haftasonu odev\desımale cevırme\desımale cevırme\obj\Debug\desımale cevırme.csproj.GenerateResource.Cache

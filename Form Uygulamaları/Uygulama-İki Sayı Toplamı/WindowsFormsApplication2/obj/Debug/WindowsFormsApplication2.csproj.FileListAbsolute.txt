@@ -1,0 +1,18 @@
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\ \FormUygulamaları\Uygulama-İki Sayı Toplamı\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\ \FormUygulamaları\Uygulama-İki Sayı Toplamı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\ \FormUygulamaları\Uygulama-İki Sayı Toplamı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\ \FormUygulamaları\Uygulama-İki Sayı Toplamı\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\ \FormUygulamaları\Uygulama-İki Sayı Toplamı\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\ \FormUygulamaları\Uygulama-İki Sayı Toplamı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\ \FormUygulamaları\Uygulama-İki Sayı Toplamı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\ \FormUygulamaları\Uygulama-İki Sayı Toplamı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\ \FormUygulamaları\Uygulama-İki Sayı Toplamı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Users\LAB4-PC1\Desktop\NTP ÖRNEKLER\örnek 6\örnek 6\bin\Debug\örnek 6.exe.config
+C:\Users\LAB4-PC1\Desktop\NTP ÖRNEKLER\örnek 6\örnek 6\bin\Debug\örnek 6.exe
+C:\Users\LAB4-PC1\Desktop\NTP ÖRNEKLER\örnek 6\örnek 6\bin\Debug\örnek 6.pdb
+C:\Users\LAB4-PC1\Desktop\NTP ÖRNEKLER\örnek 6\örnek 6\obj\Debug\örnek 6.csprojResolveAssemblyReference.cache
+C:\Users\LAB4-PC1\Desktop\NTP ÖRNEKLER\örnek 6\örnek 6\obj\Debug\örnek 6.exe
+C:\Users\LAB4-PC1\Desktop\NTP ÖRNEKLER\örnek 6\örnek 6\obj\Debug\örnek 6.pdb
+D:\NTP ÖRNEKLER\örnek 6\örnek 6\bin\Debug\örnek 6.exe.config
+D:\NTP ÖRNEKLER\örnek 6\örnek 6\obj\Debug\örnek 6.exe
+D:\NTP ÖRNEKLER\örnek 6\örnek 6\obj\Debug\örnek 6.pdb

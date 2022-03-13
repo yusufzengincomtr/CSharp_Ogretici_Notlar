@@ -1,0 +1,30 @@
+C:\Users\bahattin\Desktop\Yeni klasör\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\bahattin\Desktop\Yeni klasör\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\bahattin\Desktop\Yeni klasör\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\bahattin\Desktop\Yeni klasör\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\bahattin\Desktop\Yeni klasör\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\bahattin\Desktop\Yeni klasör\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\bahattin\Desktop\Yeni klasör\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\bahattin\Desktop\Yeni klasör\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\bahattin\Desktop\Yeni klasör\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\Yeni klasör\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\Yeni klasör\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\Yeni klasör\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\Yeni klasör\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\Yeni klasör\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\Yeni klasör\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\Yeni klasör\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\Yeni klasör\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\Yeni klasör\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\Yeni klasör\Kim milyoner olmak ister\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\Yeni klasör\Kim milyoner olmak ister\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\Yeni klasör\Kim milyoner olmak ister\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\bahattin\Desktop\Kim milyoner olmak ister\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\bahattin\Desktop\Kim milyoner olmak ister\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\bahattin\Desktop\Kim milyoner olmak ister\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\bahattin\Desktop\Kim milyoner olmak ister\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\bahattin\Desktop\Kim milyoner olmak ister\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\bahattin\Desktop\Kim milyoner olmak ister\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\bahattin\Desktop\Kim milyoner olmak ister\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\bahattin\Desktop\Kim milyoner olmak ister\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\bahattin\Desktop\Kim milyoner olmak ister\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\Users\bahattin\Desktop\Formuyg\Uygulama8-Listeleme\Uygulama8-Listeleme\bin\Debug\Uygulama8-Listeleme.exe.config
+C:\Users\LAB4-PC1\Desktop\form\Uygulama8-Listeleme\Uygulama8-Listeleme\bin\Debug\Uygulama8-Listeleme.exe.config
+C:\Users\LAB4-PC1\Desktop\form\Uygulama8-Listeleme\Uygulama8-Listeleme\bin\Debug\Uygulama8-Listeleme.exe
+C:\Users\LAB4-PC1\Desktop\form\Uygulama8-Listeleme\Uygulama8-Listeleme\bin\Debug\Uygulama8-Listeleme.pdb
+C:\Users\LAB4-PC1\Desktop\form\Uygulama8-Listeleme\Uygulama8-Listeleme\obj\Debug\Uygulama8-Listeleme.csprojResolveAssemblyReference.cache
+C:\Users\LAB4-PC1\Desktop\form\Uygulama8-Listeleme\Uygulama8-Listeleme\obj\Debug\Uygulama8_Listeleme.Form1.resources
+C:\Users\LAB4-PC1\Desktop\form\Uygulama8-Listeleme\Uygulama8-Listeleme\obj\Debug\Uygulama8_Listeleme.Properties.Resources.resources
+C:\Users\LAB4-PC1\Desktop\form\Uygulama8-Listeleme\Uygulama8-Listeleme\obj\Debug\Uygulama8-Listeleme.csproj.GenerateResource.Cache
+C:\Users\LAB4-PC1\Desktop\form\Uygulama8-Listeleme\Uygulama8-Listeleme\obj\Debug\Uygulama8-Listeleme.exe
+C:\Users\LAB4-PC1\Desktop\form\Uygulama8-Listeleme\Uygulama8-Listeleme\obj\Debug\Uygulama8-Listeleme.pdb

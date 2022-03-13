@@ -1,0 +1,23 @@
+C:\Users\bahattin\Desktop\Yeni klasör\hareket ettirme\hareket ettirme\bin\Debug\hareket ettirme.exe.config
+C:\Users\bahattin\Desktop\Yeni klasör\hareket ettirme\hareket ettirme\obj\Debug\hareket_ettirme.Form1.resources
+C:\Users\bahattin\Desktop\Yeni klasör\hareket ettirme\hareket ettirme\obj\Debug\hareket_ettirme.Properties.Resources.resources
+C:\Users\bahattin\Desktop\Yeni klasör\hareket ettirme\hareket ettirme\obj\Debug\hareket ettirme.csproj.GenerateResource.Cache
+C:\Users\bahattin\Desktop\Yeni klasör\hareket ettirme\hareket ettirme\bin\Debug\hareket ettirme.exe
+C:\Users\bahattin\Desktop\Yeni klasör\hareket ettirme\hareket ettirme\bin\Debug\hareket ettirme.pdb
+C:\Users\bahattin\Desktop\Yeni klasör\hareket ettirme\hareket ettirme\obj\Debug\hareket ettirme.exe
+C:\Users\bahattin\Desktop\Yeni klasör\hareket ettirme\hareket ettirme\obj\Debug\hareket ettirme.pdb
+C:\Users\bahattin\Desktop\Yeni klasör\hareket ettirme\hareket ettirme\obj\Debug\hareket ettirme.csprojResolveAssemblyReference.cache
+D:\ \hareket ettirme\hareket ettirme\bin\Debug\hareket ettirme.exe.config
+D:\ \hareket ettirme\hareket ettirme\obj\Debug\hareket ettirme.exe
+D:\ \hareket ettirme\hareket ettirme\obj\Debug\hareket ettirme.pdb
+D:\ \hareket ettirme\hareket ettirme\bin\Debug\hareket ettirme.exe
+D:\ \hareket ettirme\hareket ettirme\bin\Debug\hareket ettirme.pdb
+D:\ \hareket ettirme\hareket ettirme\obj\Debug\hareket ettirme.csprojResolveAssemblyReference.cache
+D:\ \hareket ettirme\hareket ettirme\obj\Debug\hareket_ettirme.Form1.resources
+D:\ \hareket ettirme\hareket ettirme\obj\Debug\hareket_ettirme.Properties.Resources.resources
+D:\ \hareket ettirme\hareket ettirme\obj\Debug\hareket ettirme.csproj.GenerateResource.Cache
+F:\ \C# Oyunlarım\hareket ettirme\hareket ettirme\obj\Debug\hareket ettirme.csprojAssemblyReference.cache
+F:\ \C# Oyunlarım\hareket ettirme\hareket ettirme\obj\Debug\hareket_ettirme.Form1.resources
+F:\ \C# Oyunlarım\hareket ettirme\hareket ettirme\obj\Debug\hareket ettirme.csproj.GenerateResource.cache
+F:\ \C# Oyunlarım\hareket ettirme\hareket ettirme\obj\Debug\hareket ettirme.exe
+F:\ \C# Oyunlarım\hareket ettirme\hareket ettirme\obj\Debug\hareket ettirme.pdb

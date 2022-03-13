@@ -1,0 +1,9 @@
+D:\NTP ÖRNEKLER\Örnek9\Örnek9\bin\Debug\Örnek9.exe.config
+D:\NTP ÖRNEKLER\Örnek9\Örnek9\obj\Debug\Örnek9.csprojResolveAssemblyReference.cache
+D:\NTP ÖRNEKLER\Örnek9\Örnek9\bin\Debug\Örnek9.exe
+D:\NTP ÖRNEKLER\Örnek9\Örnek9\bin\Debug\Örnek9.pdb
+D:\NTP ÖRNEKLER\Örnek9\Örnek9\obj\Debug\Örnek9.exe
+D:\NTP ÖRNEKLER\Örnek9\Örnek9\obj\Debug\Örnek9.pdb
+D:\NTP ÖRNEKLER\Örnek 9\Örnek9\bin\Debug\Örnek9.exe.config
+D:\NTP ÖRNEKLER\Örnek 9\Örnek9\obj\Debug\Örnek9.exe
+D:\NTP ÖRNEKLER\Örnek 9\Örnek9\obj\Debug\Örnek9.pdb

@@ -1,0 +1,9 @@
+C:\Users\LAB4-PC1\Desktop\NTP ÖRNEKLER\ÖRNEK 1 NTP\ÖRNEK 1 NTP\bin\Debug\ÖRNEK 1 NTP.exe.config
+C:\Users\LAB4-PC1\Desktop\NTP ÖRNEKLER\ÖRNEK 1 NTP\ÖRNEK 1 NTP\bin\Debug\ÖRNEK 1 NTP.exe
+C:\Users\LAB4-PC1\Desktop\NTP ÖRNEKLER\ÖRNEK 1 NTP\ÖRNEK 1 NTP\bin\Debug\ÖRNEK 1 NTP.pdb
+C:\Users\LAB4-PC1\Desktop\NTP ÖRNEKLER\ÖRNEK 1 NTP\ÖRNEK 1 NTP\obj\Debug\ÖRNEK 1 NTP.csprojResolveAssemblyReference.cache
+C:\Users\LAB4-PC1\Desktop\NTP ÖRNEKLER\ÖRNEK 1 NTP\ÖRNEK 1 NTP\obj\Debug\ÖRNEK 1 NTP.exe
+C:\Users\LAB4-PC1\Desktop\NTP ÖRNEKLER\ÖRNEK 1 NTP\ÖRNEK 1 NTP\obj\Debug\ÖRNEK 1 NTP.pdb
+D:\NTP ÖRNEKLER\ÖRNEK 1 NTP\ÖRNEK 1 NTP\bin\Debug\ÖRNEK 1 NTP.exe.config
+D:\NTP ÖRNEKLER\ÖRNEK 1 NTP\ÖRNEK 1 NTP\obj\Debug\ÖRNEK 1 NTP.exe
+D:\NTP ÖRNEKLER\ÖRNEK 1 NTP\ÖRNEK 1 NTP\obj\Debug\ÖRNEK 1 NTP.pdb

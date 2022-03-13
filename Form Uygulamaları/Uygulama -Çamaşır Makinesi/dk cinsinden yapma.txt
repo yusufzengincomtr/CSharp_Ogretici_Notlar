@@ -1,0 +1,53 @@
+if (rbeyaz3dk.Checked)
+            {
+                sayac++;
+                lblzaman.Text = sayac.ToString();
+                if (sayac==59)
+                {
+                    sayac=0;
+                    dk++;
+                    lbldk.Text = dk.ToString();
+
+                }
+                if (dk == 3)
+                {
+                    lblzaman.Text = "00";
+                    lbldurum.Text = "Makine Bitti";
+                    timer1.Stop();
+                }                     
+            }
+            if (rbrenk2dk.Checked)
+            {
+                sayac++;
+                lblzaman.Text = sayac.ToString();
+                if (sayac == 59)
+                {
+                    sayac = 0;
+                    dk++;
+                    lbldk.Text = dk.ToString();
+
+                }
+                if (dk == 2)
+                {
+                    lblzaman.Text = "00";
+                    lbldurum.Text = "Makine Bitti";
+                    timer1.Stop();
+                }
+            }
+            if (rbnarin1dk.Checked)
+            {
+                sayac++;
+                lblzaman.Text = sayac.ToString();
+                if (sayac == 59)
+                {
+                    sayac = 0;
+                    dk++;
+                    lbldk.Text = dk.ToString();
+
+                }
+                if (dk == 1)
+                {
+                    lblzaman.Text = "00";
+                    lbldurum.Text = "Makine Bitti";
+                    timer1.Stop();
+                }

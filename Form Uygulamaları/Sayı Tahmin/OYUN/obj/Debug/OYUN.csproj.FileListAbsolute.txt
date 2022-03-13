@@ -1,0 +1,9 @@
+C:\Users\LAB4-PC1\Desktop\OYUN\OYUN\OYUN\bin\Debug\OYUN.exe.config
+C:\Users\LAB4-PC1\Desktop\OYUN\OYUN\OYUN\bin\Debug\OYUN.exe
+C:\Users\LAB4-PC1\Desktop\OYUN\OYUN\OYUN\bin\Debug\OYUN.pdb
+C:\Users\LAB4-PC1\Desktop\OYUN\OYUN\OYUN\obj\Debug\OYUN.csprojResolveAssemblyReference.cache
+C:\Users\LAB4-PC1\Desktop\OYUN\OYUN\OYUN\obj\Debug\OYUN.Form1.resources
+C:\Users\LAB4-PC1\Desktop\OYUN\OYUN\OYUN\obj\Debug\OYUN.Properties.Resources.resources
+C:\Users\LAB4-PC1\Desktop\OYUN\OYUN\OYUN\obj\Debug\OYUN.csproj.GenerateResource.Cache
+C:\Users\LAB4-PC1\Desktop\OYUN\OYUN\OYUN\obj\Debug\OYUN.exe
+C:\Users\LAB4-PC1\Desktop\OYUN\OYUN\OYUN\obj\Debug\OYUN.pdb

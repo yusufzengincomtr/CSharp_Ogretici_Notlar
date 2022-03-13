@@ -1,0 +1,42 @@
+C:\Users\tekeş\Desktop\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\bin\Debug\sayı uretme rastgele.exe.config
+C:\Users\tekeş\Desktop\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\bin\Debug\sayı uretme rastgele.exe
+C:\Users\tekeş\Desktop\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\bin\Debug\sayı uretme rastgele.pdb
+C:\Users\tekeş\Desktop\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı uretme rastgele.csprojResolveAssemblyReference.cache
+C:\Users\tekeş\Desktop\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı_uretme_rastgele.Form1.resources
+C:\Users\tekeş\Desktop\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı_uretme_rastgele.Properties.Resources.resources
+C:\Users\tekeş\Desktop\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı uretme rastgele.csproj.GenerateResource.Cache
+C:\Users\tekeş\Desktop\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı uretme rastgele.exe
+C:\Users\tekeş\Desktop\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı uretme rastgele.pdb
+C:\Users\tekeş\Desktop\ders notlarıı\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\bin\Debug\sayı uretme rastgele.exe.config
+C:\Users\tekeş\Desktop\ders notlarıı\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı uretme rastgele.exe
+C:\Users\tekeş\Desktop\ders notlarıı\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı uretme rastgele.pdb
+C:\Users\LAB4-PC1\Desktop\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\bin\Debug\sayı uretme rastgele.exe.config
+C:\Users\LAB4-PC1\Desktop\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı uretme rastgele.exe
+C:\Users\LAB4-PC1\Desktop\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı uretme rastgele.pdb
+C:\Users\LAB4-PC1\Desktop\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\bin\Debug\sayı uretme rastgele.exe
+C:\Users\LAB4-PC1\Desktop\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\bin\Debug\sayı uretme rastgele.pdb
+C:\Users\LAB4-PC1\Desktop\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı uretme rastgele.csprojResolveAssemblyReference.cache
+C:\Users\LAB4-PC1\Desktop\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı_uretme_rastgele.Form1.resources
+C:\Users\LAB4-PC1\Desktop\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı_uretme_rastgele.Properties.Resources.resources
+C:\Users\LAB4-PC1\Desktop\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı uretme rastgele.csproj.GenerateResource.Cache
+F:\ \haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\bin\Debug\sayı uretme rastgele.exe.config
+F:\ \haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı uretme rastgele.exe
+F:\ \haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı uretme rastgele.pdb
+F:\ \haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\bin\Debug\sayı uretme rastgele.exe
+F:\ \haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\bin\Debug\sayı uretme rastgele.pdb
+F:\ \haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı uretme rastgele.csprojResolveAssemblyReference.cache
+F:\ \haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı_uretme_rastgele.Form1.resources
+F:\ \haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı_uretme_rastgele.Properties.Resources.resources
+F:\ \haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı uretme rastgele.csproj.GenerateResource.Cache
+D:\ \SON YAPTIKLARIM\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\bin\Debug\sayı uretme rastgele.exe.config
+D:\ \SON YAPTIKLARIM\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı uretme rastgele.exe
+D:\ \SON YAPTIKLARIM\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı uretme rastgele.pdb
+D:\ \SON YAPTIKLARIM\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\bin\Debug\sayı uretme rastgele.exe
+D:\ \SON YAPTIKLARIM\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\bin\Debug\sayı uretme rastgele.pdb
+D:\ \SON YAPTIKLARIM\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı uretme rastgele.csprojResolveAssemblyReference.cache
+D:\ \SON YAPTIKLARIM\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı_uretme_rastgele.Form1.resources
+D:\ \SON YAPTIKLARIM\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı_uretme_rastgele.Properties.Resources.resources
+D:\ \SON YAPTIKLARIM\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı uretme rastgele.csproj.GenerateResource.Cache
+C:\Users\bahattin\Desktop\m.üstü\ÇALIŞMALAR\FLASH YEDEK\1.DÖNEM\SON YAPTIKLARIM\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\bin\Debug\sayı uretme rastgele.exe.config
+C:\Users\bahattin\Desktop\m.üstü\ÇALIŞMALAR\FLASH YEDEK\1.DÖNEM\SON YAPTIKLARIM\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı uretme rastgele.exe
+C:\Users\bahattin\Desktop\m.üstü\ÇALIŞMALAR\FLASH YEDEK\1.DÖNEM\SON YAPTIKLARIM\haftasonu odev\sayı uretme rastgele\sayı uretme rastgele\obj\Debug\sayı uretme rastgele.pdb

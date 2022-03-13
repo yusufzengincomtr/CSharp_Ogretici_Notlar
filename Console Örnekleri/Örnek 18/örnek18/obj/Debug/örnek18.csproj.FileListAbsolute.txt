@@ -1,0 +1,6 @@
+D:\NTP ÖRNEKLER\örnek18\örnek18\bin\Debug\örnek18.exe.config
+D:\NTP ÖRNEKLER\örnek18\örnek18\obj\Debug\örnek18.csprojResolveAssemblyReference.cache
+D:\NTP ÖRNEKLER\örnek18\örnek18\bin\Debug\örnek18.exe
+D:\NTP ÖRNEKLER\örnek18\örnek18\bin\Debug\örnek18.pdb
+D:\NTP ÖRNEKLER\örnek18\örnek18\obj\Debug\örnek18.exe
+D:\NTP ÖRNEKLER\örnek18\örnek18\obj\Debug\örnek18.pdb

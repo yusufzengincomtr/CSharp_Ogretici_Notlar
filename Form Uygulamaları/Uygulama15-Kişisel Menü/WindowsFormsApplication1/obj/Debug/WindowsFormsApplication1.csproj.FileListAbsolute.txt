@@ -1,0 +1,19 @@
+C:\Users\LAB4-PC1\Desktop\form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LAB4-PC1\Desktop\form\Uygulama15\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LAB4-PC1\Desktop\form\Uygulama15\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LAB4-PC1\Desktop\form\Uygulama15\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LAB4-PC1\Desktop\form\Uygulama15\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\LAB4-PC1\Desktop\form\Uygulama15\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LAB4-PC1\Desktop\form\Uygulama15\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LAB4-PC1\Desktop\form\Uygulama15\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\LAB4-PC1\Desktop\form\Uygulama15\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\LAB4-PC1\Desktop\form\Uygulama15\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\ \FormUygulamaları\Uygulama15-Kişisel Menü\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\ \FormUygulamaları\Uygulama15-Kişisel Menü\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\ \FormUygulamaları\Uygulama15-Kişisel Menü\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\ \FormUygulamaları\Uygulama15-Kişisel Menü\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\ \FormUygulamaları\Uygulama15-Kişisel Menü\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\ \FormUygulamaları\Uygulama15-Kişisel Menü\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\ \FormUygulamaları\Uygulama15-Kişisel Menü\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\ \FormUygulamaları\Uygulama15-Kişisel Menü\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ \FormUygulamaları\Uygulama15-Kişisel Menü\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

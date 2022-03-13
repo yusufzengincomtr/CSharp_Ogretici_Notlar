@@ -1,0 +1,9 @@
+D:\NTP ÖRNEKLER\ornk11\ornk11\bin\Debug\ornk11.exe.config
+D:\NTP ÖRNEKLER\ornk11\ornk11\bin\Debug\ornk11.exe
+D:\NTP ÖRNEKLER\ornk11\ornk11\bin\Debug\ornk11.pdb
+D:\NTP ÖRNEKLER\ornk11\ornk11\obj\Debug\ornk11.csprojResolveAssemblyReference.cache
+D:\NTP ÖRNEKLER\ornk11\ornk11\obj\Debug\ornk11.exe
+D:\NTP ÖRNEKLER\ornk11\ornk11\obj\Debug\ornk11.pdb
+D:\NTP ÖRNEKLER\Örnek 11\ornk11\bin\Debug\ornk11.exe.config
+D:\NTP ÖRNEKLER\Örnek 11\ornk11\obj\Debug\ornk11.exe
+D:\NTP ÖRNEKLER\Örnek 11\ornk11\obj\Debug\ornk11.pdb

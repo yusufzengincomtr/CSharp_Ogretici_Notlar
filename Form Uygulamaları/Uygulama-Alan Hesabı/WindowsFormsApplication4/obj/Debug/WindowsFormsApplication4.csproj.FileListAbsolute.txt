@@ -1,0 +1,26 @@
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+D:\ \FormUygulamaları\Uygulama-Alan Hesabı\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+D:\ \FormUygulamaları\Uygulama-Alan Hesabı\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\ \FormUygulamaları\Uygulama-Alan Hesabı\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+D:\ \FormUygulamaları\Uygulama-Alan Hesabı\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\ \FormUygulamaları\Uygulama-Alan Hesabı\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\ \FormUygulamaları\Uygulama-Alan Hesabı\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+D:\ \FormUygulamaları\Uygulama-Alan Hesabı\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+D:\ \FormUygulamaları\Uygulama-Alan Hesabı\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\ \FormUygulamaları\Uygulama-Alan Hesabı\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+F:\ \FormUygulamaları\Uygulama-Alan Hesabı\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+F:\ \FormUygulamaları\Uygulama-Alan Hesabı\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+F:\ \FormUygulamaları\Uygulama-Alan Hesabı\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+F:\ \FormUygulamaları\Uygulama-Alan Hesabı\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+F:\ \FormUygulamaları\Uygulama-Alan Hesabı\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+F:\ \FormUygulamaları\Uygulama-Alan Hesabı\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+F:\ \FormUygulamaları\Uygulama-Alan Hesabı\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+F:\ \FormUygulamaları\Uygulama-Alan Hesabı\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+F:\ \FormUygulamaları\Uygulama-Alan Hesabı\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache

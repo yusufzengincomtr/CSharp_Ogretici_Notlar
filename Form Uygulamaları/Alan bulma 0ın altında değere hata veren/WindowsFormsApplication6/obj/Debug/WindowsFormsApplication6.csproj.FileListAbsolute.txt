@@ -1,0 +1,12 @@
+C:\Users\bahattin\Desktop\ÖRNEKLER\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\bahattin\Desktop\ÖRNEKLER\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\bahattin\Desktop\ÖRNEKLER\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\bahattin\Desktop\ÖRNEKLER\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\bahattin\Desktop\ÖRNEKLER\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\bahattin\Desktop\ÖRNEKLER\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\bahattin\Desktop\ÖRNEKLER\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\bahattin\Desktop\ÖRNEKLER\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\bahattin\Desktop\ÖRNEKLER\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\bahattin\Desktop\Alan bulma 0ın altında değere hata veren\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\bahattin\Desktop\Alan bulma 0ın altında değere hata veren\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\bahattin\Desktop\Alan bulma 0ın altında değere hata veren\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb

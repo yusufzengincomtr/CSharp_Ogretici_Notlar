@@ -1,0 +1,3 @@
+D:\NTP ÖRNEKLER\ornek12\ornek12\bin\Debug\ornek12.exe.config
+D:\NTP ÖRNEKLER\ornek12\ornek12\obj\Debug\ornek12.csprojResolveAssemblyReference.cache
+D:\NTP ÖRNEKLER\Örnek 12\ornek12\bin\Debug\ornek12.exe.config

@@ -1,0 +1,21 @@
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\VİSUAL\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\VİSUAL\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\VİSUAL\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\VİSUAL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\VİSUAL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\VİSUAL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\VİSUAL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\VİSUAL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\VİSUAL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\ \FormUygulamaları\Son yaptıklarımız\Uygulama52 Çarpım Tablosu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\ \FormUygulamaları\Son yaptıklarımız\Uygulama52 Çarpım Tablosu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\ \FormUygulamaları\Son yaptıklarımız\Uygulama52 Çarpım Tablosu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\ \FormUygulamaları\Son yaptıklarımız\Uygulama52 Çarpım Tablosu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\ \FormUygulamaları\Son yaptıklarımız\Uygulama52 Çarpım Tablosu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\ \FormUygulamaları\Son yaptıklarımız\Uygulama52 Çarpım Tablosu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\ \FormUygulamaları\Son yaptıklarımız\Uygulama52 Çarpım Tablosu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\ \FormUygulamaları\Son yaptıklarımız\Uygulama52 Çarpım Tablosu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ \FormUygulamaları\Son yaptıklarımız\Uygulama52 Çarpım Tablosu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\FLASH YEDEK\1.DÖNEM\FormUygulamaları\Uygulama52 Çarpım Tablosu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\FLASH YEDEK\1.DÖNEM\FormUygulamaları\Uygulama52 Çarpım Tablosu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bahattin\Desktop\ÇALIŞMALAR\FLASH YEDEK\1.DÖNEM\FormUygulamaları\Uygulama52 Çarpım Tablosu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

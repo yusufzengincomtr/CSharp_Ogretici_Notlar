@@ -1,0 +1,24 @@
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\trycatchkullanimi\trycatchkullanimi\bin\Debug\trycatchkullanimi.exe.config
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\trycatchkullanimi\trycatchkullanimi\bin\Debug\trycatchkullanimi.exe
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\trycatchkullanimi\trycatchkullanimi\bin\Debug\trycatchkullanimi.pdb
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\trycatchkullanimi\trycatchkullanimi\obj\Debug\trycatchkullanimi.csprojResolveAssemblyReference.cache
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\trycatchkullanimi\trycatchkullanimi\obj\Debug\trycatchkullanimi.Form1.resources
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\trycatchkullanimi\trycatchkullanimi\obj\Debug\trycatchkullanimi.Properties.Resources.resources
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\trycatchkullanimi\trycatchkullanimi\obj\Debug\trycatchkullanimi.csproj.GenerateResource.Cache
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\trycatchkullanimi\trycatchkullanimi\obj\Debug\trycatchkullanimi.exe
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\trycatchkullanimi\trycatchkullanimi\obj\Debug\trycatchkullanimi.pdb
+D:\ \trycatchkullanimi\trycatchkullanimi\bin\Debug\trycatchkullanimi.exe.config
+D:\ \trycatchkullanimi\trycatchkullanimi\obj\Debug\trycatchkullanimi.exe
+D:\ \trycatchkullanimi\trycatchkullanimi\obj\Debug\trycatchkullanimi.pdb
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\Try-Catch Kullanımı\trycatchkullanimi\bin\Debug\trycatchkullanimi.exe.config
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\Try-Catch Kullanımı\trycatchkullanimi\obj\Debug\trycatchkullanimi.exe
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\Try-Catch Kullanımı\trycatchkullanimi\obj\Debug\trycatchkullanimi.pdb
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\Try-Catch Kullanımı\trycatchkullanimi\bin\Debug\trycatchkullanimi.exe
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\Try-Catch Kullanımı\trycatchkullanimi\bin\Debug\trycatchkullanimi.pdb
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\Try-Catch Kullanımı\trycatchkullanimi\obj\Debug\trycatchkullanimi.csprojResolveAssemblyReference.cache
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\Try-Catch Kullanımı\trycatchkullanimi\obj\Debug\trycatchkullanimi.Form1.resources
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\Try-Catch Kullanımı\trycatchkullanimi\obj\Debug\trycatchkullanimi.Properties.Resources.resources
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\Try-Catch Kullanımı\trycatchkullanimi\obj\Debug\trycatchkullanimi.csproj.GenerateResource.Cache
+C:\Users\bahattin\Desktop\m.üstü\ÇALIŞMALAR\FLASH YEDEK\1.DÖNEM\FormUygulamaları\Try-Catch Kullanımı\trycatchkullanimi\bin\Debug\trycatchkullanimi.exe.config
+C:\Users\bahattin\Desktop\m.üstü\ÇALIŞMALAR\FLASH YEDEK\1.DÖNEM\FormUygulamaları\Try-Catch Kullanımı\trycatchkullanimi\obj\Debug\trycatchkullanimi.exe
+C:\Users\bahattin\Desktop\m.üstü\ÇALIŞMALAR\FLASH YEDEK\1.DÖNEM\FormUygulamaları\Try-Catch Kullanımı\trycatchkullanimi\obj\Debug\trycatchkullanimi.pdb

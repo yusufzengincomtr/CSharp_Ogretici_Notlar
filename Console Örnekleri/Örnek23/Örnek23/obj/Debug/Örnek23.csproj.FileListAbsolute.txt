@@ -1,0 +1,6 @@
+D:\NTP ÖRNEKLER\Örnek23\Örnek23\bin\Debug\Örnek23.exe.config
+D:\NTP ÖRNEKLER\Örnek23\Örnek23\bin\Debug\Örnek23.exe
+D:\NTP ÖRNEKLER\Örnek23\Örnek23\bin\Debug\Örnek23.pdb
+D:\NTP ÖRNEKLER\Örnek23\Örnek23\obj\Debug\Örnek23.csprojResolveAssemblyReference.cache
+D:\NTP ÖRNEKLER\Örnek23\Örnek23\obj\Debug\Örnek23.exe
+D:\NTP ÖRNEKLER\Örnek23\Örnek23\obj\Debug\Örnek23.pdb

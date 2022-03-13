@@ -1,0 +1,12 @@
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\zEN SON YAPILANLAR UYGULAMALAR\Uygulama-Akbil Dolumu\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\zEN SON YAPILANLAR UYGULAMALAR\Uygulama-Akbil Dolumu\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\zEN SON YAPILANLAR UYGULAMALAR\Uygulama-Akbil Dolumu\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

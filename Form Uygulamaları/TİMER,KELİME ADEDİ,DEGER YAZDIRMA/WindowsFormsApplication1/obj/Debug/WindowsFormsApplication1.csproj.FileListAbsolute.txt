@@ -1,0 +1,53 @@
+C:\Users\LAB4-PC1\Desktop\ntp yeni ornekler\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LAB4-PC1\Desktop\ntp yeni ornekler\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LAB4-PC1\Desktop\ntp yeni ornekler\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LAB4-PC1\Desktop\ntp yeni ornekler\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\LAB4-PC1\Desktop\ntp yeni ornekler\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LAB4-PC1\Desktop\ntp yeni ornekler\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LAB4-PC1\Desktop\ntp yeni ornekler\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\LAB4-PC1\Desktop\ntp yeni ornekler\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\LAB4-PC1\Desktop\ntp yeni ornekler\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\LAB4-PC1\Desktop\ntp yeni ornekler\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\UYGULAMALAR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\UYGULAMALAR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\UYGULAMALAR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\UYGULAMALAR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\UYGULAMALAR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\UYGULAMALAR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\UYGULAMALAR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\UYGULAMALAR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\UYGULAMALAR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\UYGULAMALAR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\ \FormUygulamaları\Son yaptıklarımız\UYGULAMALAR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\ \FormUygulamaları\Son yaptıklarımız\UYGULAMALAR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\ \FormUygulamaları\Son yaptıklarımız\UYGULAMALAR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\LAB4-PC1\Desktop\UYGULAMALAR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LAB4-PC1\Desktop\UYGULAMALAR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\LAB4-PC1\Desktop\UYGULAMALAR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\LAB4-PC1\Desktop\UYGULAMALAR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LAB4-PC1\Desktop\UYGULAMALAR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LAB4-PC1\Desktop\UYGULAMALAR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\LAB4-PC1\Desktop\UYGULAMALAR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LAB4-PC1\Desktop\UYGULAMALAR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\LAB4-PC1\Desktop\UYGULAMALAR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LAB4-PC1\Desktop\UYGULAMALAR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\LAB4-PC1\Desktop\UYGULAMALAR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\LAB4-PC1\Desktop\UYGULAMALAR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+E:\ \FormUygulamaları\Son yaptıklarımız\TİMER,KELİME ADEDİ,DEGER YAZDIRMA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\ \FormUygulamaları\Son yaptıklarımız\TİMER,KELİME ADEDİ,DEGER YAZDIRMA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\ \FormUygulamaları\Son yaptıklarımız\TİMER,KELİME ADEDİ,DEGER YAZDIRMA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\ \FormUygulamaları\Son yaptıklarımız\TİMER,KELİME ADEDİ,DEGER YAZDIRMA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\ \FormUygulamaları\Son yaptıklarımız\TİMER,KELİME ADEDİ,DEGER YAZDIRMA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\ \FormUygulamaları\Son yaptıklarımız\TİMER,KELİME ADEDİ,DEGER YAZDIRMA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\zEN SON YAPILANLAR UYGULAMALAR\TİMER,KELİME ADEDİ,DEGER YAZDIRMA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\zEN SON YAPILANLAR UYGULAMALAR\TİMER,KELİME ADEDİ,DEGER YAZDIRMA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\zEN SON YAPILANLAR UYGULAMALAR\TİMER,KELİME ADEDİ,DEGER YAZDIRMA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\zEN SON YAPILANLAR UYGULAMALAR\TİMER,KELİME ADEDİ,DEGER YAZDIRMA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\zEN SON YAPILANLAR UYGULAMALAR\TİMER,KELİME ADEDİ,DEGER YAZDIRMA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\zEN SON YAPILANLAR UYGULAMALAR\TİMER,KELİME ADEDİ,DEGER YAZDIRMA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\zEN SON YAPILANLAR UYGULAMALAR\TİMER,KELİME ADEDİ,DEGER YAZDIRMA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\zEN SON YAPILANLAR UYGULAMALAR\TİMER,KELİME ADEDİ,DEGER YAZDIRMA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\zEN SON YAPILANLAR UYGULAMALAR\TİMER,KELİME ADEDİ,DEGER YAZDIRMA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\zEN SON YAPILANLAR UYGULAMALAR\TİMER,KELİME ADEDİ,DEGER YAZDIRMA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\zEN SON YAPILANLAR UYGULAMALAR\TİMER,KELİME ADEDİ,DEGER YAZDIRMA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bahattin\Desktop\FLASH\FormUygulamaları\zEN SON YAPILANLAR UYGULAMALAR\TİMER,KELİME ADEDİ,DEGER YAZDIRMA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

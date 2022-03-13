@@ -1,0 +1,6 @@
+C:\Users\LAB4-PC1\Desktop\NTP ÖRNEKLER\örnek 4\örnek 4\bin\Debug\örnek 4.exe.config
+D:\NTP ÖRNEKLER\örnek 4\örnek 4\bin\Debug\örnek 4.exe.config
+D:\NTP ÖRNEKLER\örnek 4\örnek 4\bin\Debug\örnek 4.exe
+D:\NTP ÖRNEKLER\örnek 4\örnek 4\bin\Debug\örnek 4.pdb
+D:\NTP ÖRNEKLER\örnek 4\örnek 4\obj\Debug\örnek 4.exe
+D:\NTP ÖRNEKLER\örnek 4\örnek 4\obj\Debug\örnek 4.pdb

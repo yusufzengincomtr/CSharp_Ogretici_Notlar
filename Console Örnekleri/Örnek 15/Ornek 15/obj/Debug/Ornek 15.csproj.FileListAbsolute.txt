@@ -1,0 +1,12 @@
+D:\NTP ÖRNEKLER\Ornek 15\Ornek 15\bin\Debug\Ornek 15.exe.config
+D:\NTP ÖRNEKLER\Ornek 15\Ornek 15\obj\Debug\Ornek 15.csprojResolveAssemblyReference.cache
+D:\NTP ÖRNEKLER\Ornek 15\Ornek 15\bin\Debug\Ornek 15.exe
+D:\NTP ÖRNEKLER\Ornek 15\Ornek 15\bin\Debug\Ornek 15.pdb
+D:\NTP ÖRNEKLER\Ornek 15\Ornek 15\obj\Debug\Ornek 15.exe
+D:\NTP ÖRNEKLER\Ornek 15\Ornek 15\obj\Debug\Ornek 15.pdb
+D:\NTP ÖRNEKLER\Örnek 15\Ornek 15\bin\Debug\Ornek 15.exe.config
+D:\NTP ÖRNEKLER\Örnek 15\Ornek 15\obj\Debug\Ornek 15.exe
+D:\NTP ÖRNEKLER\Örnek 15\Ornek 15\obj\Debug\Ornek 15.pdb
+D:\ \NTP ÖRNEKLER\Örnek 15\Ornek 15\bin\Debug\Ornek 15.exe.config
+D:\ \NTP ÖRNEKLER\Örnek 15\Ornek 15\obj\Debug\Ornek 15.exe
+D:\ \NTP ÖRNEKLER\Örnek 15\Ornek 15\obj\Debug\Ornek 15.pdb

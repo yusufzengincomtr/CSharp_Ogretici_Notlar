@@ -1,0 +1,18 @@
+F:\Asal Sayı kodları\Asal Sayı kodları\bin\Debug\Asal Sayı kodları.exe.config
+F:\Asal Sayı kodları\Asal Sayı kodları\bin\Debug\Asal Sayı kodları.exe
+F:\Asal Sayı kodları\Asal Sayı kodları\bin\Debug\Asal Sayı kodları.pdb
+F:\Asal Sayı kodları\Asal Sayı kodları\obj\Debug\Asal Sayı kodları.csprojResolveAssemblyReference.cache
+F:\Asal Sayı kodları\Asal Sayı kodları\obj\Debug\Asal Sayı kodları.exe
+F:\Asal Sayı kodları\Asal Sayı kodları\obj\Debug\Asal Sayı kodları.pdb
+D:\ \NTP ÖRNEKLER\Asal Sayı ör25\Asal Sayı kodları\bin\Debug\Asal Sayı kodları.exe.config
+D:\ \NTP ÖRNEKLER\Asal Sayı ör25\Asal Sayı kodları\obj\Debug\Asal Sayı kodları.exe
+D:\ \NTP ÖRNEKLER\Asal Sayı ör25\Asal Sayı kodları\obj\Debug\Asal Sayı kodları.pdb
+D:\ \NTP ÖRNEKLER\Asal Sayı ör25\Asal Sayı kodları\bin\Debug\Asal Sayı kodları.exe
+D:\ \NTP ÖRNEKLER\Asal Sayı ör25\Asal Sayı kodları\bin\Debug\Asal Sayı kodları.pdb
+D:\ \NTP ÖRNEKLER\Asal Sayı ör25\Asal Sayı kodları\obj\Debug\Asal Sayı kodları.csprojResolveAssemblyReference.cache
+F:\ \NTP ÖRNEKLER\Asal Sayı ör25\Asal Sayı kodları\bin\Debug\Asal Sayı kodları.exe.config
+F:\ \NTP ÖRNEKLER\Asal Sayı ör25\Asal Sayı kodları\obj\Debug\Asal Sayı kodları.exe
+F:\ \NTP ÖRNEKLER\Asal Sayı ör25\Asal Sayı kodları\obj\Debug\Asal Sayı kodları.pdb
+D:\Asal Sayı ör25\Asal Sayı kodları\bin\Debug\Asal Sayı kodları.exe.config
+D:\Asal Sayı ör25\Asal Sayı kodları\obj\Debug\Asal Sayı kodları.exe
+D:\Asal Sayı ör25\Asal Sayı kodları\obj\Debug\Asal Sayı kodları.pdb

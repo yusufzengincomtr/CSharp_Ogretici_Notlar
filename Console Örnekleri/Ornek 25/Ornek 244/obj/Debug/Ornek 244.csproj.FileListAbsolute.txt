@@ -1,0 +1,21 @@
+D:\NTP ÖRNEKLER\Ornek 244\Ornek 244\bin\Debug\Ornek 244.exe.config
+D:\NTP ÖRNEKLER\Ornek 244\Ornek 244\obj\Debug\Ornek 244.csprojResolveAssemblyReference.cache
+D:\NTP ÖRNEKLER\Ornek 244\Ornek 244\bin\Debug\Ornek 244.exe
+D:\NTP ÖRNEKLER\Ornek 244\Ornek 244\bin\Debug\Ornek 244.pdb
+D:\NTP ÖRNEKLER\Ornek 244\Ornek 244\obj\Debug\Ornek 244.exe
+D:\NTP ÖRNEKLER\Ornek 244\Ornek 244\obj\Debug\Ornek 244.pdb
+F:\ \NTP ÖRNEKLER\Ornek 25\Ornek 244\bin\Debug\Ornek 244.exe.config
+F:\ \NTP ÖRNEKLER\Ornek 25\Ornek 244\obj\Debug\Ornek 244.exe
+F:\ \NTP ÖRNEKLER\Ornek 25\Ornek 244\obj\Debug\Ornek 244.pdb
+D:\ \NTP ÖRNEKLER\Ornek 25\Ornek 244\bin\Debug\Ornek 244.exe.config
+D:\ \NTP ÖRNEKLER\Ornek 25\Ornek 244\obj\Debug\Ornek 244.exe
+D:\ \NTP ÖRNEKLER\Ornek 25\Ornek 244\obj\Debug\Ornek 244.pdb
+D:\Ornek 25\Ornek 244\bin\Debug\Ornek 244.exe.config
+D:\Ornek 25\Ornek 244\obj\Debug\Ornek 244.exe
+D:\Ornek 25\Ornek 244\obj\Debug\Ornek 244.pdb
+D:\ \Visual Örnk\Ornek 25\Ornek 244\bin\Debug\Ornek 244.exe.config
+D:\ \Visual Örnk\Ornek 25\Ornek 244\obj\Debug\Ornek 244.exe
+D:\ \Visual Örnk\Ornek 25\Ornek 244\obj\Debug\Ornek 244.pdb
+D:\ \Visual Örnk\Ornek 25\Ornek 244\bin\Debug\Ornek 244.exe
+D:\ \Visual Örnk\Ornek 25\Ornek 244\bin\Debug\Ornek 244.pdb
+D:\ \Visual Örnk\Ornek 25\Ornek 244\obj\Debug\Ornek 244.csprojResolveAssemblyReference.cache

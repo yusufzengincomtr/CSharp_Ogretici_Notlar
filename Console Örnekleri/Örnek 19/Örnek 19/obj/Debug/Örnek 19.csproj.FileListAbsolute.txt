@@ -1,0 +1,5 @@
+D:\NTP ÖRNEKLER\Örnek 19\Örnek 19\bin\Debug\Örnek 19.exe.config
+D:\NTP ÖRNEKLER\Örnek 19\Örnek 19\bin\Debug\Örnek 19.exe
+D:\NTP ÖRNEKLER\Örnek 19\Örnek 19\bin\Debug\Örnek 19.pdb
+D:\NTP ÖRNEKLER\Örnek 19\Örnek 19\obj\Debug\Örnek 19.exe
+D:\NTP ÖRNEKLER\Örnek 19\Örnek 19\obj\Debug\Örnek 19.pdb

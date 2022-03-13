@@ -1,0 +1,18 @@
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\LAB4-PC1\Desktop\Yeni klasör\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+F:\ \FormUygulamaları\Uygulama-Alan ve Çevre Hesabı\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+F:\ \FormUygulamaları\Uygulama-Alan ve Çevre Hesabı\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+F:\ \FormUygulamaları\Uygulama-Alan ve Çevre Hesabı\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+F:\ \FormUygulamaları\Uygulama-Alan ve Çevre Hesabı\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+F:\ \FormUygulamaları\Uygulama-Alan ve Çevre Hesabı\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+F:\ \FormUygulamaları\Uygulama-Alan ve Çevre Hesabı\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+F:\ \FormUygulamaları\Uygulama-Alan ve Çevre Hesabı\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+F:\ \FormUygulamaları\Uygulama-Alan ve Çevre Hesabı\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+F:\ \FormUygulamaları\Uygulama-Alan ve Çevre Hesabı\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache

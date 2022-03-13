@@ -1,0 +1,15 @@
+C:\Users\LAB4-PC1\Desktop\NTP ÖRNEKLER\örnek 7\örnek 7\bin\Debug\örnek 7.exe.config
+C:\Users\LAB4-PC1\Desktop\NTP ÖRNEKLER\örnek 7\örnek 7\bin\Debug\örnek 7.exe
+C:\Users\LAB4-PC1\Desktop\NTP ÖRNEKLER\örnek 7\örnek 7\bin\Debug\örnek 7.pdb
+C:\Users\LAB4-PC1\Desktop\NTP ÖRNEKLER\örnek 7\örnek 7\obj\Debug\örnek 7.csprojResolveAssemblyReference.cache
+C:\Users\LAB4-PC1\Desktop\NTP ÖRNEKLER\örnek 7\örnek 7\obj\Debug\örnek 7.exe
+C:\Users\LAB4-PC1\Desktop\NTP ÖRNEKLER\örnek 7\örnek 7\obj\Debug\örnek 7.pdb
+D:\NTP ÖRNEKLER\örnek 7\örnek 7\bin\Debug\örnek 7.exe.config
+D:\NTP ÖRNEKLER\örnek 7\örnek 7\obj\Debug\örnek 7.exe
+D:\NTP ÖRNEKLER\örnek 7\örnek 7\obj\Debug\örnek 7.pdb
+D:\NTP ÖRNEKLER\örnek 7\örnek 7\bin\Debug\örnek 7.exe
+D:\NTP ÖRNEKLER\örnek 7\örnek 7\bin\Debug\örnek 7.pdb
+D:\NTP ÖRNEKLER\örnek 7\örnek 7\obj\Debug\örnek 7.csprojResolveAssemblyReference.cache
+F:\ \Visual Örnk\Örnek 7\örnek 7\bin\Debug\örnek 7.exe.config
+F:\ \Visual Örnk\Örnek 7\örnek 7\obj\Debug\örnek 7.exe
+F:\ \Visual Örnk\Örnek 7\örnek 7\obj\Debug\örnek 7.pdb

@@ -1,0 +1,48 @@
+ if (rbeyaz3dk.Checked && chkekstra.Checked)
+            {
+                sayac++;
+                lblzaman.Text = sayac.ToString();
+                if (sayac==59)
+                {
+                    dk++;
+                    lbldk.Text = dk.ToString();
+                }
+                if (dk==3)
+                {
+                    if (sayac==30)
+                    {
+                        lbldurum.Text = "Makine Gecikmeli Olarak Bitti";
+                        timer1.Stop();
+                    }
+                }
+            }
+            if (rbrenk2dk.Checked && chkekstra.Checked)
+            {
+                sayac++;
+                lblzaman.Text = sayac.ToString();
+                if (sayac == 59)
+                {
+                    dk++;
+                    lbldk.Text = dk.ToString();
+                }
+                if (dk == 2 && sayac==30)
+                {
+                    lbldurum.Text = "Makine Gecikmeli Olarak Bitti";
+                    timer1.Stop();
+                }
+            }
+            if (rbnarin1dk.Checked && chkekstra.Checked)
+            {
+                sayac++;
+                lblzaman.Text = sayac.ToString();
+                if (sayac == 59)
+                {
+                    dk++;
+                    lbldk.Text = dk.ToString();
+                }
+                if (dk == 1 && sayac==30)
+                {
+                    lbldurum.Text = "Makine Gecikmeli Olarak Bitti";
+                    timer1.Stop();
+                }
+            }

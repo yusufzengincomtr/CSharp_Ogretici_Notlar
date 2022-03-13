@@ -1,0 +1,3 @@
+C:\Users\bahattin\Desktop\Formuyg\Uygulama9-FormChckBox\Uygulama9-FormChckBox\bin\Debug\Uygulama9-FormChckBox.exe.config
+D:\Formuyg\Uygulama9-FormChckBox\Uygulama9-FormChckBox\bin\Debug\Uygulama9-FormChckBox.exe.config
+E:\ \FormUygulamaları\Uygulama9-FormChckBox\Uygulama9-FormChckBox\bin\Debug\Uygulama9-FormChckBox.exe.config

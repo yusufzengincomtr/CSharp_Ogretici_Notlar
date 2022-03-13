@@ -1,0 +1,18 @@
+C:\Users\LAB4-PC1\Desktop\ali ekber 2\ornek\ornek\bin\Debug\ornek.exe.config
+C:\Users\LAB4-PC1\Desktop\ali ekber 2\ornek\ornek\bin\Debug\ornek.exe
+C:\Users\LAB4-PC1\Desktop\ali ekber 2\ornek\ornek\bin\Debug\ornek.pdb
+C:\Users\LAB4-PC1\Desktop\ali ekber 2\ornek\ornek\obj\Debug\ornek.csprojResolveAssemblyReference.cache
+C:\Users\LAB4-PC1\Desktop\ali ekber 2\ornek\ornek\obj\Debug\ornek.exe
+C:\Users\LAB4-PC1\Desktop\ali ekber 2\ornek\ornek\obj\Debug\ornek.pdb
+F:\ \programlar\ali ekber 2\klavyeden girilen sayıyıa kadar olan sayıların çarpımını ekranda gösteren program\ornek\bin\Debug\ornek.exe.config
+F:\ \programlar\ali ekber 2\klavyeden girilen sayıyıa kadar olan sayıların çarpımını ekranda gösteren program\ornek\obj\Debug\ornek.exe
+F:\ \programlar\ali ekber 2\klavyeden girilen sayıyıa kadar olan sayıların çarpımını ekranda gösteren program\ornek\obj\Debug\ornek.pdb
+F:\ \programlar\ali ekber 2\klavyeden girilen sayıyıa kadar olan sayıların çarpımını ekranda gösteren program\ornek\bin\Debug\ornek.exe
+F:\ \programlar\ali ekber 2\klavyeden girilen sayıyıa kadar olan sayıların çarpımını ekranda gösteren program\ornek\bin\Debug\ornek.pdb
+F:\ \programlar\ali ekber 2\klavyeden girilen sayıyıa kadar olan sayıların çarpımını ekranda gösteren program\ornek\obj\Debug\ornek.csprojResolveAssemblyReference.cache
+D:\ \NTP ÖRNEKLER\çarpım\ornek\bin\Debug\ornek.exe.config
+D:\ \NTP ÖRNEKLER\çarpım\ornek\obj\Debug\ornek.exe
+D:\ \NTP ÖRNEKLER\çarpım\ornek\obj\Debug\ornek.pdb
+D:\ \NTP ÖRNEKLER\Örnek 17\ornek\bin\Debug\ornek.exe.config
+D:\ \NTP ÖRNEKLER\Örnek 17\ornek\obj\Debug\ornek.exe
+D:\ \NTP ÖRNEKLER\Örnek 17\ornek\obj\Debug\ornek.pdb
